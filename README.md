@@ -42,3 +42,15 @@ The system automatically logs distance readings to "radarlog.txt" on the SD card
 - Displays "SD CARD REMOVED!" if SD card is removed during operation
 - System continues to function normally without SD card
 - All other functionality remains operational regardless of SD card status
+
+
+## Sommaire
+
+- 📡 [Communications](#communications)
+- 🔥 [Test rapide](#test-rapide)
+
+### 📡 Communications
+Ici le contenu...
+
+### 🔥 Test rapide
+Ça descend bien quand tu cliques sur 🔥 Test rapide ?
